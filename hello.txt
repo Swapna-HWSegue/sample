@@ -1,0 +1,2 @@
+this is the content added using cat command
+to create the file and add content
